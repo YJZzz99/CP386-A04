@@ -42,6 +42,10 @@ W -> Worst function
 
 About developer
 ======
+Mengyuan Liu  
+186802750  
+Huiqiao Yang  
+186803710
 
 License
 =======
