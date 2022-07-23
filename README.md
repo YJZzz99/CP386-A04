@@ -31,6 +31,12 @@ _
 
 Feature
 ====
+RQ -> Request memory  
+Status -> Display process  
+RL -> Release memory  
+F -> First function  
+B -> Best function  
+W -> Worst function
 
 About developer
 ======
