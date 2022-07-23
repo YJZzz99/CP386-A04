@@ -27,7 +27,7 @@ clean:
 Individual contribution
 =======================
 Mengyuan Liu
-————
+_
 
 Feature
 ====
