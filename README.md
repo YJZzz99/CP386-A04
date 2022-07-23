@@ -28,7 +28,7 @@ Individual contribution
 =======================
 Mengyuan Liu  
 Working for ：Request memory,Display process, and Release memory  
-Huiqiao Yang
+Huiqiao Yang  
 Working for ：First function,Best function, and Worst function  
 
 Feature
