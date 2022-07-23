@@ -42,10 +42,11 @@ W -> Worst function
 
 About developer
 ======
-Mengyuan Liu  
-186802750  
-Huiqiao Yang  
-186803710
+Student Name : Mengyuan Liu  
+Student ID : 186802750  
+
+Student Name : Huiqiao Yang  
+Student ID : 186803710
 
 License
 =======
