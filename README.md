@@ -24,6 +24,15 @@ clean:
 <img width="736" alt="image" src="https://user-images.githubusercontent.com/84728523/180583992-43e5a589-909e-49b0-a16b-58936f236606.png">
 <img width="617" alt="image" src="https://user-images.githubusercontent.com/84728523/180584008-7cc969a9-f4d0-441d-ac75-ca0462c7b374.png">
 
+Individual contribution
+=======================
+
+Feature
+====
+
+About developer
+======
+
 License
 =======
 
