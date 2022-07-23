@@ -26,4 +26,4 @@ clean:
 
 License
 =======
-copyright 
+copyright © Mengyuan Liu and Huiqiao Yang
